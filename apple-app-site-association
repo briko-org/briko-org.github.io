@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "6J59X65829.one.press.ios.test",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "6J59X65829.one.press.ios",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
