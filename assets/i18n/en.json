@@ -15,10 +15,10 @@
   "INDEX_ABOUT_CREATE_ACCOUNT": "Create My Briko Account",
   "INDEX_ABOUT_WHY_BRIKO_DEVELOPER_ANSWER": "- Contributions to the corpora are rewarded with Briko Token <br />- Profit from contributions to the active corpora is sustainable<br />- Profit distribution is protected by the smart contract",
   "INDEX_ABOUT_BUILD_BRIKO_DAPP": "Develop My Briko Dapp",
-  "INDEX_ABOUT_JUST_LAUNCHED": "WHAT ARE WE WORKING ON?",
-  "INDEX_ABOUT_RELEASED": "<div class=\"po-weight-600\">Construction of the Briko Chain<\/div><ul><li>Configuring Briko Test Chain<\/li><li>Developing Briko Contracts<\/li><\/ul><div class=\"po-weight-600\">Development of the Dapp<\/div><ul><li>Designing and building a new Dapp for users to participate in the corpus contribution process<\/li><\/ul>",
-  "INDEX_ABOUT_BUILDING": " ",
-  "INDEX_ABOUT_WHAT_ARE_WE_WORKING": " ",
+  "INDEX_ABOUT_JUST_LAUNCHED": "We have just released... ",
+  "INDEX_ABOUT_RELEASED": "<div class=\"po-weight-600\">Briko Project Documentations<\/div><ul><li>Briko White Paper<\/li><li>Briko Community Work Flow Design Document<\/li><\/ul><div class=\"po-weight-600\">Game NMT Demo<\/div><ul><li>Web demo(EN-ZH) for the game NMT based on RNN and Transformer<\/li><li>Trained Transformer model(EN-ZH)<\/li><li>Code and tutorial for using the trained model<\/li><\/ul>",
+  "INDEX_ABOUT_BUILDING": "<div class=\"po-weight-600\">Construction of the Briko Chain<\/div><ul><li>Configuring Briko Test Chain<\/li><li>Developing Briko Contracts<\/li><\/ul><div class=\"po-weight-600\">Development of the Dapp<\/div><ul><li>Designing and building a new Dapp for users to participate in the corpus contribution process<\/li><\/ul>",
+  "INDEX_ABOUT_WHAT_ARE_WE_WORKING": "WHAT ARE WE WORKING ON?",
   "INDEX_ABOUT_VIEW_WEEKLY_REPORT": "Our Bi-weekly Report",
   "INDEX_ABOUT_APP_DESCRIPTION": "- Sign up to join Briko community and become a contributor<br\/>- Acquire and complete tasks to gain BGE reward<br\/>- Manage your BGE Wallet",
   "INDEX_ABOUT_APP_STORE": "App Store",
@@ -111,4 +111,5 @@
   "INDEX_ECOSYSTEM_DESC_8": "• Credit system promotes active participation. High credit users will be invited for the community management.",
   "INDEX_ECOSYSTEM_DESC_9": "• All purchases from Briko will be completed using EOS.",
   "INDEX_ECOSYSTEM_DESC_10": "• BGEs will be repurchased by Briko and destroyed to transfer its income to the community."
+
 }
